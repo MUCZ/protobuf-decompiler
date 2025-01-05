@@ -40,6 +40,8 @@ message HelloReply {
 
 # Protobuf Descriptor Example
 
+This section provides examples of the program's input, specifically the protobuf descriptors. In most cases, these descriptors are encoded in the generated template code as literal binary arrays. Additionally, you can extract them from the generated binary executable if available.
+
 Python
 ```py
 # helloworld_pb2.py
