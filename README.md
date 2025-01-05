@@ -1,5 +1,10 @@
 # Protobuf Decompiler
 
+
+<p align="center">
+  <img src="https://github.com/MUCZ/protobuf-decompiler/blob/main/doc/img.png">
+</p>
+
 The Protobuf Decompiler is a CLI designed to help you recover the original `*.proto` file from a protobuf binary descriptor.
 
 In most supported languages, you can locate the raw descriptor of the original protobuf definition within the generated template codes. This descriptor usually takes the form of a binary string (check the next section for examples).
